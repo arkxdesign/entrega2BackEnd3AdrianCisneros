@@ -1,0 +1,1 @@
+docker pull adriancisneros/entrega2:1.0.0
